@@ -1,4 +1,9 @@
-I developed this apkmaker project as part of [IconEffects](https://play.google.com/store/apps/details?id=com.theaetetuslabs.iconeffects.demo), and I am releasing it under [Apache License v 2.0](http://www.apache.org/licenses/LICENSE-2.0.txt).  It is a gradle project that contains three modules.  
+# Attaching files
+
+You can convey information by attaching a variety of file types to your issues and pull requests.
+
+> \[!NOTE]
+> For public repositories, uploI developed this apkmaker project as part of [IconEffects](https://play.google.com/store/apps/details?id=com.theaetetuslabs.iconeffects.demo), and I am releasing it under [Apache License v 2.0](http://www.apache.org/licenses/LICENSE-2.0.txt).  It is a gradle project that contains three modules.  
 
 You can include the library modules in your project using jitpack.  In your `build.gradle` file: 
 ```gradle
